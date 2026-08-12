@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    background-color: rgb(250, 0, 150);
+    background-color: rgb(0, 250, 250); <!-- Site para cores: https://www.color-hex.com/ ou pode usar o rgb(0,0,0) -->
+    color: rgb(100, 180, 50);
 
 }
