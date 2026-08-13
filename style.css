@@ -20,3 +20,14 @@ body {
     padding-bottom: 20px;
 
 }
+
+.img-banner {
+         width: 100%; /* Ocupa toda a largura da tela */
+         height: 180px; /* Altura fixa */
+         object-fit: cover; /* Impede que a imagem fique esticada ou esmagada */
+}
+
+.perfil-container {
+          text-align: center; /* Centraliza o nome e a biografia */
+          padding: 0 20px;
+}
