@@ -44,7 +44,7 @@ body {
 
 h1 {
        color: #000000;
-       margin-top: 12px;
+       margin-top: 15px;
        font-size: 1.8rem;
 }
 p {
@@ -56,6 +56,6 @@ p {
 p1{
        color: #303030;
        font-size: 1rem;
-       margin-top: 4px;
+       margin-top: 10px;
 
 }
